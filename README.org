@@ -1,0 +1,5 @@
+* Dyalog APL Problem Solving Competition 2018
+
+My solutions for Phase I of [[https://www.dyalog.com/nnews/128/456/Winners-Announced-for-the-2018-APL-Programming-Contest.htm][the 2018 APL Problem Solving Competition]].
+
+The actual solutions are in [[competition.dyalog]]. 
